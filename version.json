@@ -1,4 +1,6 @@
 {
-  "version": "1.2",
-  "jar_url": "https://github.com/jasperpcf-stack/license-server/releases/download/v1.2/insiteful.jar"
+  "version": "1.3",
+  "jar_url": "https://github.com/jasperpcf-stack/license-server/releases/download/v1.3/insiteful.jar"
+  "changelog": "Improved scan speed + fixed sitemap bug",
+  "force_update": false
 }
