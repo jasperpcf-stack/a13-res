@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "jar_url": "https://github.com/jasperpcf-stack/license-server/releases/download/v1.4/insiteful.jar",
+  "changelog": "UI Version check updated",
+  "force_update": false
+}
