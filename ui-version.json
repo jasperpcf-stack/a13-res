@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "exe_url": "https://github.com/jasperpcf-stack/license-server/releases/download/ui1.2/InsitefulApp.exe",
+  "exe_url": "https://raw.githubusercontent.com/jasperpcf-stack/license-server/main/insitefulApp.exe",
   "changelog": "UI Version check updated",
   "force_update": false
 }
