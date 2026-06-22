@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "jar_url": "https://raw.githubusercontent.com/jasperpcf-stack/license-server/main/insiteful.jar",
   "changelog": "Functional updates",
   "force_update": true
